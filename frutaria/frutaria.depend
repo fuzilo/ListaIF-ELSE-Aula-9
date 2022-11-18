@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668690763 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\frutaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

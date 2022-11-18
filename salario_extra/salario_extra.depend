@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668698189 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\salario_extra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

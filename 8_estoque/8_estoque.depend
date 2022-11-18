@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668700961 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\8_estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

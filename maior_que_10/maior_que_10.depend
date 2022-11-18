@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668687232 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\maior_que_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
